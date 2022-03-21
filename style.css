@@ -1,0 +1,19 @@
+body {
+  min-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(226, 226, 226);
+}
+#projects {
+  background-color: rgb(226, 226, 226);
+}
+
+section {
+  padding-top: 5rem;
+}
+
+h1 {
+  font-family: "Lora", serif;
+}
